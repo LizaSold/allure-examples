@@ -1,0 +1,1 @@
+{"7d43fde0c3ae854375ba8e23e863bfbd":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"196177394e7d819e","status":"failed","statusDetails":"AssertionError: assert 503 == 200\n +  where 503 = <Response [503]>.status_code","time":{"start":1695833234439,"stop":1695833234447,"duration":8}}]}}
